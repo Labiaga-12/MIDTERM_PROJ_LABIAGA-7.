@@ -1,0 +1,70 @@
+
+h1 {
+    color: rgb(222, 78, 164);
+    background-color: #3e022f;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(244, 169, 208);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(234, 150, 189);
+}
+
+h4 {
+    color: rgb(230, 158, 184);
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    color: rgb(238, 247, 247);
+}
+
+h6 {
+    text-align: center;
+}
+
+p {
+    color: rgb(244, 193, 224);
+    text-align: center;
+}
+
+ol, ul {
+    color: rgb(243, 170, 232);
+    text-align: center;
+}
+
+
+/* index. html background*/
+body.HOME{
+    background-image: url(pic.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* shs-days.html background*/
+body.ABOUTS{
+    background-image: url(pic2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* abouts.html background*/
+body.SHS{
+    background-image: url(pic3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+hr{
+    color: #e4a1d3;
+
+
+}
